@@ -4,18 +4,18 @@
 # Reviewer by email for html files
 *.html @echo-ech0
 # Reviewer by organization Team (@org Name/ @team Name)
-*.txt @organization-echo/@team_b
+*.txt @organization-echo/@tanisac633
 
 # Reviewer by Specific Folder
 /Script/js/ @SubhajitBar 
 
 # Reviewer by Specific File
-*.css @team_a
+*.css @echo-ech0
 
 # All Reviewer by Specific Folder
-docs/*  @team_a
+docs/*  @tanisac633
 
 # Specific Type of Directory Owner:
-**/logs @team_b
+**/logs @tanisac633
 
 
