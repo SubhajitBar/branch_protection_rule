@@ -4,7 +4,7 @@
 # Reviewer by email for html files
 *.html @echo-ech0
 # Reviewer by organization Team (@org Name/ @team Name)
-*.txt @organization-echo/orgechoteama
+*.txt @organization-echo/@orgechoteama/@team_b
 
 # Reviewer by Specific Folder
 /Script/js/ @SubhajitBar 
