@@ -1,0 +1,21 @@
+# Default Reviewers/CodeOwners  for All code Change
+* @tanisac633 @SubhajitBar  #project Admin
+
+# Reviewer by email for html files
+*.html @echo-ech0
+# Reviewer by organization Team (@org Name/ @team Name)
+*.txt @organization-echo/@team_b
+
+# Reviewer by Specific Folder
+/Script/js/ @SubhajitBar 
+
+# Reviewer by Specific File
+*.css @team_a
+
+# All Reviewer by Specific Folder
+docs/*  @team_a
+
+# Specific Type of Directory Owner:
+**/logs @team_b
+
+
